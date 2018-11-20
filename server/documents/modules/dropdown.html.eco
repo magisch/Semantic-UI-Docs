@@ -2446,7 +2446,7 @@ themes      : ['Default', 'GitHub', 'Material']
         </tr>
         <tr>
           <td>clearable</td>
-          <td>false</td>
+          <td>false<div class="ui label">New in 2.4.0</div></td>
           <td>Whether the dropdown value can be cleared by the user after being selected. </td>
         </tr>
         <tr>
